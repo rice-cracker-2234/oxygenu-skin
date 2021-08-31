@@ -43,7 +43,7 @@
         "Name": "furk",
         "Link": "https://cdn.discordapp.com/attachments/882240993397731339/882254988510892083/FurkByteCode.dll",
         "IsWorking": true,
-        "IsDirectDownloadLink": false,
+        "IsDirectDownloadLink": true,
         "Pipe": "Furkus"
     },
     
@@ -51,7 +51,7 @@
         "Name": "zeus",
         "Link": "https://cdn.discordapp.com/attachments/882240993397731339/882255373069864990/ZeusX.dll",
         "IsWorking": true,
-        "IsDirectDownloadLink": false,
+        "IsDirectDownloadLink": true,
         "Pipe": "furkisgay"
     }
 ]
